@@ -140,6 +140,12 @@ Step Training Loss Validation Loss
 
 ![title](Phi2_eval_metrics.png)
 
+Absolute percentage improvement of PEFT MODEL over ORIGINAL MODEL
+rouge1: 4.98%
+rouge2: 0.74%
+rougeL: 2.09%
+rougeLsum: 3.66%
+
 ## Model Weights saving and inferencing
 
 Model Weights are saved in output directory and final checkpoint-checkpoint 1000- is loaded with base model at the time of inferencing. The base model is loaded with the same quantization config as the previous base model used for finetuning. 
