@@ -136,9 +136,9 @@ Step Training Loss Validation Loss
 975	1.313800	1.316914
 1000	1.083200	1.316937
 
-![title](Images/Phi2_train_metrics.png)
+![title](Phi2_train_metrics.png)
 
-![title](Images/Phi2_eval_metrics.png)
+![title](Phi2_eval_metrics.png)
 
 ## Model Weights saving and inferencing
 
